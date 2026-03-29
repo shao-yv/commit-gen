@@ -1,4 +1,6 @@
 .env
 __pycache__/
+chroma_db/
+retrieval_data.json
 *.pyc
 .vscode/
